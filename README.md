@@ -4,10 +4,6 @@
 
 # <img src="config/fish.png" alt="Logo" width="50"> YunDang-Chain 移动端全节点公有链 - 打造之旅
 
-[English Version](README.md)
-
-[访问地址]()
-
 
 ## <img src="config/fish.png" alt="Logo" width="50"> 特性
 - 使用 NodeJS 构建
@@ -54,9 +50,13 @@
 访问: `http://localhost:9527/`
 
 
-## <img src="config/fish.png" alt="Logo" width="50"> 日程计划(表格??)
+## <img src="config/fish.png" alt="Logo" width="50"> 日程计划
 
-[更新日志](CHANGELOG.md)
+| 项目 | 日期 | 备注 |
+| :------| ------: | ------: |
+| 开胃菜: 最简版本的BlockChain | 2020-08-03 | 牛刀小试 |
+| 明日预告: 解析 | 2020-08-04 | 预告 |
+
 - [反馈](https://github.com/stevekeol/YunDang-Chain/issues)
 
 
