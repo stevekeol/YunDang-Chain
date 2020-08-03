@@ -1,6 +1,4 @@
-# YunDang-Chain
-
-# <img src="config/fish.png" alt="Logo" width="50"> YunDang-Chain 移动端全节点公有链 - 打造之旅
+# <img src="config/fish.png" alt="Logo" width="100"> YunDang-Chain 移动端全节点公有链 - 打造之旅
 
 [English Version](README.md)
 
