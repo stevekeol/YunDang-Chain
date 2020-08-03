@@ -17,7 +17,8 @@
 - 共识、存储、网络等所有环节全部实现在移动端
 - 适配移动端展现 (Mobile First)
 <img src="config/m.png" alt="Mobile UI" width="300">
-- 欢迎[反馈](https://github.com/stevekeol/yundang-chain/issues)
+
+- [反馈](https://github.com/stevekeol/YunDang-Chain/issues)
 
 ## 技术栈
 
@@ -62,8 +63,11 @@
 ## 进群方式
 
 - 添加微信: stevekeol（推荐）
+
 <img src="config/qr.jpg" alt="群主二维码" width="200">
-- 扫描下方二维码，并提交进群理由:
+
+- 扫描下方二维码，并提交进群理由
+
 <img src="config/qr-group.png" alt="进群二维码" width="200">
 
 
