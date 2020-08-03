@@ -1,10 +1,20 @@
-# <img src="config/fish.png" alt="Logo" width="100"> YunDang-Chain 移动端全节点公有链 - 打造之旅
+<br/>
+<br/>
+<br/>
+
+<p align="center">
+    <img alt="stevekeol" src="config/bottle.mei.png" width="480" />
+</p><br/>
+<br/>
+<br/>
+
+
+# <img src="config/fish.png" alt="Logo" width="50"> YunDang-Chain 移动端全节点公有链 - 打造之旅
 
 [English Version](README.md)
 
 [访问地址]()
 
-<img src="config/qunshan.png" alt="PC UI" width="600">
 
 ## 特性
 - 使用 NodeJS 构建
@@ -14,11 +24,9 @@
 - 每天核心攻关一个难点/开发任务
 - 共识、存储、网络等所有环节全部实现在移动端
 - 适配移动端展现 (Mobile First)
-<img src="config/bottle.mei.png" alt="Mobile UI" width="400">
 
-- [反馈](https://github.com/stevekeol/YunDang-Chain/issues)
 
-## 技术栈
+## <img src="config/fish.png" alt="Logo" width="50"> 技术栈
 
 ##### 项目管理相关
 - [create-react-app](https://github.com/facebook/create-react-app): 大家都在用的 react 项目构建架子
@@ -42,7 +50,6 @@
 - [IndexDB](): 作为本地底层结构化数据存储方案
 
 
-
 ## 本地开发（前端部分尚未开始）
 
 克隆到本地：`git clone https://github.com/stevekeol/yundang-chain.git`
@@ -54,11 +61,13 @@
 访问: `http://localhost:9527/`
 
 
-## 更新日志
+## <img src="config/fish.png" alt="Logo" width="50"> 日程计划(表格??)
 
 [更新日志](CHANGELOG.md)
+- [反馈](https://github.com/stevekeol/YunDang-Chain/issues)
 
-## 进群方式
+
+## <img src="config/fish.png" alt="Logo" width="50"> 进群方式
 
 - 添加微信: stevekeol（推荐）
 
