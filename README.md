@@ -40,8 +40,6 @@
 
 <img src="config/demo-blockchain.gif" alt="demo-blockchain" width="400">
 
-<img src="config/qr.jpg" alt="群主二维码" width="200">
-
 克隆到本地：`git clone https://github.com/stevekeol/yundang-chain.git`
 
 初始化：`cd yundang-chain/demo && npm install`
