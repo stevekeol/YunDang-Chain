@@ -5,6 +5,7 @@
 [English Version](README.md)
 
 [访问地址]()
+
 <img src="config/pc.png" alt="PC UI" width="600">
 
 ## 特性
@@ -16,7 +17,7 @@
 - 共识、存储、网络等所有环节全部实现在移动端
 - 适配移动端展现 (Mobile First)
 <img src="config/m.png" alt="Mobile UI" width="300">
-- 欢迎[反馈](https://github.com/stevekeol/yundang-chain/issues))。
+- 欢迎[反馈](https://github.com/stevekeol/yundang-chain/issues)
 
 ## 技术栈
 
@@ -63,7 +64,7 @@
 - 添加微信: stevekeol（推荐）
 <img src="config/qr.jpg" alt="群主二维码" width="200">
 - 扫描下方二维码，并提交进群理由:
-<img src="config/qr-group.jpg" alt="进群二维码" width="200">
+<img src="config/qr-group.png" alt="进群二维码" width="200">
 
 
 ## 参考
