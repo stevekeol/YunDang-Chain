@@ -1,13 +1,6 @@
-<br/>
-<br/>
-<br/>
-
 <p align="center">
-    <img alt="stevekeol" src="config/bottle.mei.png" width="480" />
+    <img alt="stevekeol" src="config/bottle.mei.png" width="300" />
 </p><br/>
-<br/>
-<br/>
-
 
 # <img src="config/fish.png" alt="Logo" width="50"> YunDang-Chain 移动端全节点公有链 - 打造之旅
 
@@ -16,7 +9,7 @@
 [访问地址]()
 
 
-## 特性
+## <img src="config/fish.png" alt="Logo" width="50"> 特性
 - 使用 NodeJS 构建
 - 从第一行代码开始开发
 - 全程在微信群、github上公布进展
@@ -50,7 +43,7 @@
 - [IndexDB](): 作为本地底层结构化数据存储方案
 
 
-## 本地开发（前端部分尚未开始）
+## <img src="config/fish.png" alt="Logo" width="50"> 本地开发（前端部分尚未开始）
 
 克隆到本地：`git clone https://github.com/stevekeol/yundang-chain.git`
 
@@ -78,7 +71,7 @@
 <img src="config/qr-group.png" alt="进群二维码" width="200">
 
 
-## 参考
+## <img src="config/fish.png" alt="Logo" width="50"> 参考
 
 - 区块链底层逻辑 ：[比特币]()
 - 源码框架：[Bcoin]()
