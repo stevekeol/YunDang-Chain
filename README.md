@@ -36,9 +36,9 @@
 - [IndexDB](): 作为本地底层结构化数据存储方案
 
 
-## <img src="config/fish.png" alt="Logo" width="50"> 本地开发（前端部分尚未开始）
+## <img src="config/fish.png" alt="Logo" width="50"> 最简Demo实践
 
-<img src="config/demo-blockchain.gif" alt="demo-blockchain" width="760">
+<img src="config/demo-blockchain.gif" alt="demo-blockchain" width="900">
 
 克隆到本地：`git clone https://github.com/stevekeol/yundang-chain.git`
 
