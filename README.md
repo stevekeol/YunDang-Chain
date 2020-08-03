@@ -20,12 +20,9 @@
 ##### 项目管理相关
 - [create-react-app](https://github.com/facebook/create-react-app): 大家都在用的 react 项目构建架子
 - [react](https://reactjs.org): 最流行的前端 UI 构建语言
-- [styled-components](https://styled-components.com): react 中 css 解决方案，CSS-IN-JS 最佳实践
 - eslint + prettier: 为了更好地编码
 - husky + commitlint: 为了更好地 GIT 提交
 - [html2canvas](http://html2canvas.hertzen.com/)
-- [pinyin](https://github.com/hotoo/pinyin): 汉字转拼音
-- [react-copy-to-clipboard](https://github.com/nkbt/react-copy-to-clipboard): 开启复制功能
 - [iconfont.cn](https://iconfont.cn): 阿里系的图标库，很丰富，很方便
 - [https://www.transparenttextures.com/](https://www.transparenttextures.com/): 非常好看的纹理背景图
 - [今日诗词](https://www.jinrishici.com)
@@ -43,7 +40,7 @@
 
 克隆到本地：`git clone https://github.com/stevekeol/yundang-chain.git`
 
-初始化：`cd yundang-chain && npm install`
+初始化：`cd yundang-chain/demo && npm install`
 
 运行：`npm start`
 
@@ -54,7 +51,7 @@
 
 | 项目 | 日期 | 备注 | 源码 |
 | :------| ------: | :------: | :------: |
-| 开胃菜: 最简版本的BlockChain | 2020-08-03 | 牛刀小试 | [源码][2020-08-03-source], [样码][2020-08-03] |
+| 开胃菜: 最简版本的BlockChain | 2020-08-03 | 牛刀小试 | [源码][2020-08-03-source] / [样码][2020-08-03] |
 | 明日预告: 解析 | 2020-08-04 | 预告 |
 
 
@@ -76,5 +73,5 @@
 - 移动端UI界面： [XX移动端]()
 
 
-[2020-08-03]: https://carbon.now.sh/hj3NOYqY2y5mRgBZlpDA
-[2020-08-03-source]: demo/blockchain.js
+[2020-08-03]: https://carbon.now.sh/SH1QbU6JPJSn6aUw57e8
+[2020-08-03-source]: demo/BlockChain.js

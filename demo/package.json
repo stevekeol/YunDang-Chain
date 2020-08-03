@@ -1,0 +1,25 @@
+{
+  "name": "blockchain-demo",
+  "version": "1.0.0",
+  "description": "simply mock blockchain",
+  "license": "MIT",
+  "repository": "git://github.com/stevekeol/yundang-chain.git",
+  "homepage": "https://github.com/stevekeol/yundang-chain",
+  "bugs": {
+    "url": "https://github.com/stevekeol/yundang-chain/issues"
+  },
+  "author": "stevekeol <stevekeol@sina.com>",
+  "contributors": [
+    "stevekeol <stevekeol@sina.com>"
+  ],
+  "keywords": [
+    "bitcoin",
+    "blockchain",
+  ],
+  "engines": {
+    "node": ">=10.0.0"
+  },
+  "dependencies": {
+    "crypto-js": "^4.0.0"
+  },
+}
