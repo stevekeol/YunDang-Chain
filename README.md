@@ -38,7 +38,7 @@
 
 ## <img src="config/fish.png" alt="Logo" width="50"> 本地开发（前端部分尚未开始）
 
-<img src="config/demo-blockchain.gif" alt="demo-blockchain" width="400">
+<img src="config/demo-blockchain.gif" alt="demo-blockchain" width="760">
 
 克隆到本地：`git clone https://github.com/stevekeol/yundang-chain.git`
 
