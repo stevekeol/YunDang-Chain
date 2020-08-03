@@ -4,7 +4,7 @@
 
 [访问地址]()
 
-<img src="config/pc.png" alt="PC UI" width="600">
+<img src="config/qunshan.png" alt="PC UI" width="600">
 
 ## 特性
 - 使用 NodeJS 构建
@@ -14,7 +14,7 @@
 - 每天核心攻关一个难点/开发任务
 - 共识、存储、网络等所有环节全部实现在移动端
 - 适配移动端展现 (Mobile First)
-<img src="config/m.png" alt="Mobile UI" width="300">
+<img src="config/bottle.mei.png" alt="Mobile UI" width="400">
 
 - [反馈](https://github.com/stevekeol/YunDang-Chain/issues)
 
@@ -49,7 +49,7 @@
 
 初始化：`cd yundang-chain && npm install`
 
-运行：`npm run start`
+运行：`npm start`
 
 访问: `http://localhost:9527/`
 
