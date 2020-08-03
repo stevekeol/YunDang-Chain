@@ -38,13 +38,15 @@
 
 ## <img src="config/fish.png" alt="Logo" width="50"> 本地开发（前端部分尚未开始）
 
+<img src="config/demo-blockchain.gif" alt="demo-blockchain" width="400">
+
+<img src="config/qr.jpg" alt="群主二维码" width="200">
+
 克隆到本地：`git clone https://github.com/stevekeol/yundang-chain.git`
 
 初始化：`cd yundang-chain/demo && npm install`
 
 运行：`npm start`
-
-访问: `http://localhost:9527/`
 
 
 ## <img src="config/fish.png" alt="Logo" width="50"> 日程计划
