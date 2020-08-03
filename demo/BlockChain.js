@@ -227,5 +227,3 @@ function mockBlocks() {
 
 //开启模拟区块
 mockBlocks();
-
-https://carbon.now.sh/SH1QbU6JPJSn6aUw57e8
